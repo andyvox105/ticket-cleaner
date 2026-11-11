@@ -1,0 +1,10 @@
+[
+  {
+    "id": "T-1001",
+    "status": "open",
+    "priority": 1,
+    "category": "software",
+    "description": "Máy tính không lên nguồn"
+  },
+  null
+]
